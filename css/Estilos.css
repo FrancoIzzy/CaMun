@@ -1,0 +1,25 @@
+body {
+	background-color: #E0F2F7;
+}
+
+.header {
+	background-color: #FBFBFB;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 5px;
+}
+
+.labels {
+	background-color: #A4FADA;
+	font-size: 13px;
+	font: Arial;
+	border-radius: 5px;
+}
+
+
+.text {
+	border-radius: 5px;
+	border-color: #FFCF57;
+	font: Arial;
+
+}
